@@ -60,5 +60,11 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 
+# Started content provided by Unreal Engine
+Content/StarterContent/*
+
+# Level not used 
+Content/_Levels/BattleGround.umap
+
 # Cache files for the editor to use
 DerivedDataCache/*
